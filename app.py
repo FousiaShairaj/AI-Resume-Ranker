@@ -39,7 +39,7 @@ def calculate_similarity(resume_text, jd_text):
 
 st.set_page_config(page_title="AI Resume Ranker", layout="centered")
 
-st.title("🤖 AI Resume Ranker - M.Tech Mini Project")
+st.title("🤖 AI Resume Ranker ")
 
 st.sidebar.header("Upload Files")
 
